@@ -25,5 +25,6 @@ System.out.println("l'element"+":"+tab2[i]+"\n");
 int som = 0;
 som=tab1[i]+tab2[i];
 System.out.println(som);
+System.out.println("hello git");
 }
 } 
